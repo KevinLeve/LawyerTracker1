@@ -1,0 +1,750 @@
+2026-07-12 16:41:14 | INFO     | __main__ | Starting LawyerTracker v0.1.0
+2026-07-12 16:41:14 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-12 16:41:15 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-12 16:41:15 | INFO     | ui.app | Navigated to screen: onboarding
+2026-07-12 16:41:29 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-12 16:41:29 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-12 16:41:32 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-12 16:41:37 | INFO     | services.profile_service | Profile saved for advocate: Bastin Leve Raja
+2026-07-12 16:41:37 | INFO     | ui.screens.onboarding_screen | Onboarding complete for Bastin Leve Raja
+2026-07-12 16:41:37 | INFO     | ui.app | Navigated to screen: home
+2026-07-12 16:41:38 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-12 16:41:38 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-12 16:41:38 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-12 16:41:38 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-12 16:41:40 | INFO     | ui.app | Navigated to screen: settings
+2026-07-12 16:41:49 | INFO     | services.config_service | Config updated: kevinocr_dir
+2026-07-12 16:41:53 | INFO     | services.captcha_service | KevinOCR engine loaded from C:\Users\kevin\Desktop\CAPTCHA\KevinOCR v4
+2026-07-12 16:41:55 | INFO     | ui.app | Navigated to screen: home
+2026-07-12 16:42:02 | INFO     | ui.app | Navigated to screen: captcha
+2026-07-12 16:42:04 | INFO     | services.captcha_service | KevinOCR suggestion generated for CAPTCHA screen.
+2026-07-12 16:42:06 | WARNING  | api.parser | Advocate search response had no recognizable case-list field: ['errormsg', 'div_captcha', 'adv_data', 'status']
+2026-07-12 16:42:10 | INFO     | ui.app | Navigated to screen: home
+2026-07-12 16:42:18 | INFO     | ui.app | Navigated to screen: captcha
+2026-07-12 16:42:19 | INFO     | services.captcha_service | KevinOCR suggestion generated for CAPTCHA screen.
+2026-07-12 16:42:22 | INFO     | ui.app | Navigated to screen: results
+2026-07-12 16:42:23 | INFO     | services.search_service | Saved case id=1 (CRLMP/101899/2023 — Periyanayagi and One Other vs The Sub - Inspector of Police, Keeramangalam Police Station,)
+2026-07-12 16:42:25 | INFO     | services.search_service | Saved case id=2 (MCOP/812/2022 — Periyanayagi vs Arjunan 2) The Branch Manager, National Insurance Company Ltd, Pudukkottai.)
+2026-07-12 16:42:26 | INFO     | services.search_service | Saved case id=3 (EP/17/2024 — Nagammal vs Jeyaramachandran 2) Branch Manager, United India Insurance Company , 3) Branch Manager, Ms Sriram Autos)
+2026-07-12 16:42:28 | INFO     | services.search_service | Saved case id=3 (EP/17/2024 — Nagammal vs Jeyaramachandran 2) Branch Manager, United India Insurance Company , 3) Branch Manager, Ms Sriram Autos)
+2026-07-12 16:42:30 | INFO     | services.search_service | Saved case id=3 (EP/17/2024 — Nagammal vs Jeyaramachandran 2) Branch Manager, United India Insurance Company , 3) Branch Manager, Ms Sriram Autos)
+2026-07-12 16:42:32 | INFO     | services.search_service | Saved case id=3 (EP/17/2024 — Nagammal vs Jeyaramachandran 2) Branch Manager, United India Insurance Company , 3) Branch Manager, Ms Sriram Autos)
+2026-07-12 16:42:34 | INFO     | services.search_service | Saved case id=7 (MCOP/261/2022 — Dhanalakshmi vs Sambathkumar Advocate - BASTIN LEVE RAJA 2) The Branch Manager, Royal Sundaram General Insurance Com., Ltd.,)
+2026-07-12 16:42:36 | INFO     | services.search_service | Saved case id=8 (OS/141/2026 — Sate Bank of india , Alangudi Branch vs Abinaya)
+2026-07-12 16:42:38 | INFO     | services.search_service | Saved case id=9 (OS/104/2026 — State Bank of India,Alangudi Branch vs Sengamalam)
+2026-07-12 16:42:40 | INFO     | services.search_service | Saved case id=10 (OS/87/2026 — SBI vs Elayaraja)
+2026-07-12 16:42:42 | INFO     | services.search_service | Saved case id=11 (OS/86/2026 — SBI vs Elayaraja A)
+2026-07-12 16:42:45 | INFO     | services.search_service | Saved case id=12 (OS/74/2026 — State Bank of India, Alangudi Branch vs Thiruveni)
+2026-07-12 16:42:47 | INFO     | services.search_service | Saved case id=13 (OS/65/2026 — State Bank of India vs G Durkalakshmi)
+2026-07-12 16:42:49 | INFO     | services.search_service | Saved case id=14 (OS/25/2026 — State Bank of India vs Prakash 2) Anbarasan)
+2026-07-12 16:42:51 | INFO     | services.search_service | Saved case id=15 (OS/23/2026 — State Bank of India vs Panneerselvam T)
+2026-07-12 16:42:53 | INFO     | services.search_service | Saved case id=16 (OS/11/2026 — State Bank Of India. vs Ramya)
+2026-07-12 16:42:56 | INFO     | services.search_service | Saved case id=17 (OS/9/2026 — State Bank Of India vs Maheshwari M)
+2026-07-12 16:42:58 | INFO     | services.search_service | Saved case id=18 (OS/8/2026 — State Bank Of India vs Kamatchi S)
+2026-07-14 07:08:01 | WARNING  | services.reminder_logic | Invalid reminder_time 'nonsense', falling back to default.
+2026-07-14 07:08:11 | INFO     | database.connection | Database ready at /tmp/lt_test_data/test.db
+2026-07-14 07:08:11 | INFO     | services.profile_service | Profile saved for advocate: Kevin Rao
+2026-07-14 07:08:11 | INFO     | services.config_service | Config updated: telegram_enabled
+2026-07-14 07:08:11 | INFO     | services.config_service | Config updated: telegram_bot_token
+2026-07-14 07:08:11 | INFO     | services.config_service | Config updated: telegram_chat_id
+2026-07-14 07:08:11 | INFO     | services.config_service | Config updated: reminder_time
+2026-07-14 07:08:11 | INFO     | services.reminder_logic | Reminder settings saved (enabled=True, time=20:00)
+2026-07-14 07:08:11 | INFO     | services.config_service | Config updated: last_reminder_sent
+2026-07-14 07:08:23 | INFO     | database.connection | Database ready at /tmp/lt_test_data/test2.db
+2026-07-14 07:08:23 | INFO     | services.profile_service | Profile saved for advocate: Kevin
+2026-07-14 07:08:23 | INFO     | services.config_service | Config updated: telegram_enabled
+2026-07-14 07:08:23 | INFO     | services.config_service | Config updated: telegram_bot_token
+2026-07-14 07:08:23 | INFO     | services.config_service | Config updated: telegram_chat_id
+2026-07-14 07:08:23 | INFO     | services.config_service | Config updated: reminder_time
+2026-07-14 07:08:23 | INFO     | services.reminder_logic | Reminder settings saved (enabled=True, time=07:08)
+2026-07-14 07:08:23 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-14 07:08:29 | INFO     | services.reminder_scheduler | Reminder scheduler stopped.
+2026-07-14 07:08:44 | INFO     | database.connection | Database ready at /tmp/lt_test_data/test3.db
+2026-07-14 07:08:44 | INFO     | services.profile_service | Profile saved for advocate: Kevin
+2026-07-14 07:08:44 | INFO     | services.config_service | Config updated: telegram_enabled
+2026-07-14 07:08:44 | INFO     | services.config_service | Config updated: telegram_bot_token
+2026-07-14 07:08:44 | INFO     | services.config_service | Config updated: telegram_chat_id
+2026-07-14 07:08:44 | INFO     | services.config_service | Config updated: reminder_time
+2026-07-14 07:08:44 | INFO     | services.reminder_logic | Reminder settings saved (enabled=True, time=07:09)
+2026-07-14 07:08:44 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-14 07:09:00 | INFO     | services.config_service | Config updated: last_reminder_sent
+2026-07-14 07:09:00 | INFO     | services.reminder_scheduler | Scheduled reminder sent (0 hearing(s) tomorrow).
+2026-07-14 07:09:09 | INFO     | services.reminder_scheduler | Reminder scheduler stopped.
+2026-07-14 07:09:15 | WARNING  | services.telegram_service | Telegram bot token or chat ID is not configured.
+2026-07-14 21:06:18 | INFO     | __main__ | Starting LawyerTracker v0.1.0
+2026-07-14 21:06:18 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-14 21:06:19 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-14 21:06:20 | INFO     | ui.app | Navigated to screen: home
+2026-07-14 21:06:20 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-14 21:06:21 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-14 21:06:21 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-14 21:06:21 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-14 21:06:21 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-14 21:06:21 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-14 21:06:21 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-14 21:06:29 | INFO     | services.captcha_service | KevinOCR engine loaded from C:\Users\kevin\Desktop\CAPTCHA\KevinOCR v4
+2026-07-14 21:06:29 | INFO     | ui.app | Navigated to screen: settings
+2026-07-14 21:09:04 | INFO     | services.config_service | Config updated: kevinocr_dir
+2026-07-14 21:09:12 | INFO     | ui.app | Navigated to screen: home
+2026-07-14 21:09:13 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-14 21:09:16 | INFO     | ui.app | Navigated to screen: settings
+2026-07-14 21:09:17 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-14 21:09:17 | INFO     | ui.app | Navigated to screen: home
+2026-07-14 21:09:22 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-14 21:09:33 | INFO     | ui.app | Navigated to screen: home
+2026-07-16 12:06:20 | INFO     | __main__ | Starting LawyerTracker v0.1.0
+2026-07-16 12:06:21 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-16 12:06:22 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-16 12:06:22 | INFO     | ui.app | Navigated to screen: home
+2026-07-16 12:06:22 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-16 12:06:27 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-16 12:06:27 | ERROR    | api.ecourts_client | POST ?p=casestatus/fillDistrict failed.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-16 12:06:27 | ERROR    | ui.widgets.location_picker | Failed to load districts.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\ui\widgets\location_picker.py", line 147, in _fetch_districts_worker
+    districts = self._service.get_districts(state_code)
+  File "C:\Users\kevin\Desktop\LawyerTracker\services\location_service.py", line 37, in get_districts
+    html = self._client.fetch_districts(state_code)
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 104, in fetch_districts
+    resp = self._post("?p=casestatus/fillDistrict", {"state_code": state_code})
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 96, in _post
+    raise NetworkError(f"Request to eCourts portal failed ({path}).") from exc
+app_utils.exceptions.NetworkError: Request to eCourts portal failed (?p=casestatus/fillDistrict).
+2026-07-16 12:06:27 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-16 12:06:27 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-16 12:06:30 | INFO     | services.captcha_service | KevinOCR engine loaded from C:\Users\kevin\Desktop\CAPTCHA\KevinOCR v4
+2026-07-16 12:06:30 | INFO     | ui.app | Navigated to screen: settings
+2026-07-16 12:06:30 | INFO     | ui.app | Navigated to screen: settings
+2026-07-16 12:06:31 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-16 12:06:32 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-16 12:06:33 | INFO     | ui.app | Navigated to screen: settings
+2026-07-16 12:06:36 | INFO     | services.reminder_scheduler | Reminder scheduler stopped.
+2026-07-17 15:26:08 | INFO     | __main__ | Starting LawyerTracker v0.1.0
+2026-07-17 15:26:08 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-17 15:26:09 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-17 15:26:10 | INFO     | ui.app | Navigated to screen: home
+2026-07-17 15:26:10 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-17 15:26:11 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-17 15:26:11 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-17 15:26:11 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-17 15:26:12 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-17 15:26:12 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-17 15:26:13 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-17 15:28:42 | INFO     | services.captcha_service | KevinOCR engine loaded from C:\Users\kevin\Desktop\CAPTCHA\KevinOCR v4
+2026-07-17 15:28:42 | INFO     | ui.app | Navigated to screen: captcha
+2026-07-17 15:28:43 | INFO     | services.captcha_service | KevinOCR suggestion generated for CAPTCHA screen.
+2026-07-17 15:28:52 | INFO     | ui.app | Navigated to screen: results
+2026-07-17 15:28:53 | INFO     | services.search_service | Saved case id=19 (OS/199/2026 — State Bank of India, Alagudi Branch, Rep. by its Branch Manager vs Rajendran)
+2026-07-17 15:28:53 | ERROR    | api.ecourts_client | POST ?p=home/viewHistory failed.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-17 15:28:54 | ERROR    | services.search_service | Detail fetch failed for OS/141/2026 — Sate Bank of india , Alangudi Branch vs Abinaya; saving summary fields only.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\services\search_service.py", line 179, in enrich_and_save_all
+    case = self.fetch_case_detail(case)
+  File "C:\Users\kevin\Desktop\LawyerTracker\services\search_service.py", line 125, in fetch_case_detail
+    response = self._client.fetch_case_history(view_args)
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 242, in fetch_case_history
+    resp = self._post("?p=home/viewHistory", payload)
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 96, in _post
+    raise NetworkError(f"Request to eCourts portal failed ({path}).") from exc
+app_utils.exceptions.NetworkError: Request to eCourts portal failed (?p=home/viewHistory).
+2026-07-17 15:28:54 | INFO     | services.search_service | Saved case id=20 (OS/141/2026 — Sate Bank of india , Alangudi Branch vs Abinaya)
+2026-07-17 15:28:56 | INFO     | services.search_service | Saved case id=10 (OS/87/2026 — SBI vs Elayaraja)
+2026-07-17 15:28:57 | INFO     | services.search_service | Saved case id=13 (OS/65/2026 — State Bank of India vs G Durkalakshmi)
+2026-07-17 15:28:59 | INFO     | services.search_service | Saved case id=14 (OS/25/2026 — State Bank of India vs Prakash 2) Anbarasan)
+2026-07-17 15:29:01 | INFO     | services.search_service | Saved case id=15 (OS/23/2026 — State Bank of India vs Panneerselvam T)
+2026-07-17 15:29:02 | INFO     | services.search_service | Saved case id=25 (OS/267/2025 — State Bank of India, Branch Manager vs A.Janakaraj)
+2026-07-17 15:29:03 | INFO     | services.search_service | Saved case id=26 (OS/265/2025 — State Bank of India, Branch Manager vs Karuppaiya)
+2026-07-17 15:29:05 | INFO     | services.search_service | Saved case id=27 (OS/263/2025 — State Bank of India, Branch Manager vs Poomathi)
+2026-07-17 15:29:06 | INFO     | services.search_service | Saved case id=28 (OS/259/2025 — State Bank of India, Branch Manager vs Arockiaselinraj)
+2026-07-17 15:29:08 | INFO     | services.search_service | Saved case id=29 (OS/245/2025 — State Bank of India vs Balasubramaniyan)
+2026-07-17 15:29:09 | INFO     | services.search_service | Saved case id=30 (OS/8/2026 — State Bank Of India, Alangudi Branch vs Kamatchi S)
+2026-07-17 15:29:13 | INFO     | services.search_service | Saved case id=31 (OS/10/2024 — Malliga vs Rajalakshmi(Died) 2) Manickam)
+2026-07-17 15:29:15 | INFO     | services.search_service | Saved case id=31 (OS/10/2024 — Malliga vs Rajalakshmi(Died) 2) Manickam)
+2026-07-17 15:29:17 | INFO     | services.search_service | Saved case id=33 (OS/260/2025 — State Bank of India, Branch Manager, Alangudi Branch vs Vijaya Advocate - Balakrishnan.C)
+2026-07-17 15:29:18 | INFO     | services.search_service | Saved case id=34 (OS/104/2026 — State Bank of India, Alangudi Branch vs Sengamalam)
+2026-07-17 15:29:19 | INFO     | services.search_service | Saved case id=35 (OS/86/2026 — State Bank of India, Alangudy Branch. vs Thamsan 2) Sagayaraj)
+2026-07-17 15:29:20 | ERROR    | api.ecourts_client | POST ?p=home/viewHistory failed.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-17 15:29:20 | ERROR    | services.search_service | Detail fetch failed for OS/74/2026 — State Bank of India, Alangudi Branch vs Thiruveni; saving summary fields only.
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 305, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 89, in _post
+    return self._session.post(
+           ~~~~~~~~~~~~~~~~~~^
+        self._base + path,
+        ^^^^^^^^^^^^^^^^^^
+        data={**data, "ajax_req": "true", "app_token": ""},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=settings.request_timeout_seconds,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kevin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kevin\Desktop\LawyerTracker\services\search_service.py", line 179, in enrich_and_save_all
+    case = self.fetch_case_detail(case)
+  File "C:\Users\kevin\Desktop\LawyerTracker\services\search_service.py", line 125, in fetch_case_detail
+    response = self._client.fetch_case_history(view_args)
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 242, in fetch_case_history
+    resp = self._post("?p=home/viewHistory", payload)
+  File "C:\Users\kevin\Desktop\LawyerTracker\api\ecourts_client.py", line 96, in _post
+    raise NetworkError(f"Request to eCourts portal failed ({path}).") from exc
+app_utils.exceptions.NetworkError: Request to eCourts portal failed (?p=home/viewHistory).
+2026-07-17 15:29:20 | INFO     | services.search_service | Saved case id=36 (OS/74/2026 — State Bank of India, Alangudi Branch vs Thiruveni)
+2026-07-17 15:29:23 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-17 15:29:28 | INFO     | ui.app | Navigated to screen: settings
+2026-07-17 15:57:03 | INFO     | services.reminder_scheduler | Reminder scheduler stopped.
+2026-07-19 10:59:16 | INFO     | __main__ | Starting LawyerTracker v0.1.0
+2026-07-19 10:59:16 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-19 10:59:17 | INFO     | database.connection | Database ready at C:\Users\kevin\Desktop\LawyerTracker\data\lawyertracker.db
+2026-07-19 10:59:18 | INFO     | ui.app | Navigated to screen: home
+2026-07-19 10:59:18 | INFO     | services.reminder_scheduler | Reminder scheduler started.
+2026-07-19 10:59:18 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-19 10:59:18 | INFO     | api.ecourts_client | eCourts session bootstrapped.
+2026-07-19 10:59:18 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-19 10:59:18 | INFO     | services.location_service | Loaded 38 districts for state_code=10
+2026-07-19 10:59:19 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-19 10:59:19 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-19 11:00:04 | INFO     | services.captcha_service | KevinOCR engine loaded from C:\Users\kevin\Desktop\CAPTCHA\KevinOCR v4
+2026-07-19 11:00:04 | INFO     | ui.app | Navigated to screen: captcha
+2026-07-19 11:00:05 | INFO     | services.captcha_service | KevinOCR suggestion generated for CAPTCHA screen.
+2026-07-19 11:00:08 | INFO     | ui.app | Navigated to screen: results
+2026-07-19 11:00:08 | INFO     | services.search_service | Saved case id=19 (OS/199/2026 — State Bank of India, Alagudi Branch, Rep. by its Branch Manager vs Rajendran)
+2026-07-19 11:00:09 | INFO     | services.search_service | Saved case id=8 (OS/141/2026 — Sate Bank of india , Alangudi Branch vs Abinaya)
+2026-07-19 11:00:10 | INFO     | services.search_service | Saved case id=10 (OS/87/2026 — SBI vs Elayaraja)
+2026-07-19 11:00:11 | INFO     | services.search_service | Saved case id=13 (OS/65/2026 — State Bank of India vs G Durkalakshmi)
+2026-07-19 11:00:12 | INFO     | services.search_service | Saved case id=14 (OS/25/2026 — State Bank of India vs Prakash 2) Anbarasan)
+2026-07-19 11:00:14 | INFO     | services.search_service | Saved case id=15 (OS/23/2026 — State Bank of India vs Panneerselvam T)
+2026-07-19 11:00:14 | INFO     | services.search_service | Saved case id=25 (OS/267/2025 — State Bank of India, Branch Manager vs A.Janakaraj)
+2026-07-19 11:00:15 | INFO     | services.search_service | Saved case id=26 (OS/265/2025 — State Bank of India, Branch Manager vs Karuppaiya)
+2026-07-19 11:00:16 | INFO     | services.search_service | Saved case id=27 (OS/263/2025 — State Bank of India, Branch Manager vs Poomathi)
+2026-07-19 11:00:17 | INFO     | services.search_service | Saved case id=28 (OS/259/2025 — State Bank of India, Branch Manager vs Arockiaselinraj)
+2026-07-19 11:00:18 | INFO     | services.search_service | Saved case id=29 (OS/245/2025 — State Bank of India vs Balasubramaniyan)
+2026-07-19 11:00:19 | INFO     | services.search_service | Saved case id=30 (OS/8/2026 — State Bank Of India, Alangudi Branch vs Kamatchi S)
+2026-07-19 11:00:20 | INFO     | services.search_service | Saved case id=31 (OS/10/2024 — Malliga vs Rajalakshmi(Died) 2) Manickam)
+2026-07-19 11:00:22 | INFO     | services.search_service | Saved case id=31 (OS/10/2024 — Malliga vs Rajalakshmi(Died) 2) Manickam)
+2026-07-19 11:00:23 | INFO     | services.search_service | Saved case id=33 (OS/260/2025 — State Bank of India, Branch Manager, Alangudi Branch vs Vijaya Advocate - Balakrishnan.C)
+2026-07-19 11:00:24 | INFO     | services.search_service | Saved case id=34 (OS/104/2026 — State Bank of India, Alangudi Branch vs Sengamalam)
+2026-07-19 11:00:24 | INFO     | services.search_service | Saved case id=35 (OS/86/2026 — State Bank of India, Alangudy Branch. vs Thamsan 2) Sagayaraj)
+2026-07-19 11:00:25 | INFO     | services.search_service | Saved case id=54 (OS/74/2026 — State Bank of India, Alangudi Branch vs Thiruveni 2) Alagarsami)
+2026-07-19 11:00:28 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-19 11:00:33 | INFO     | ui.app | Navigated to screen: home
+2026-07-19 11:00:40 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-19 11:01:06 | INFO     | ui.app | Navigated to screen: home
+2026-07-19 11:01:33 | INFO     | services.location_service | Loaded 5 court complexes for state_code=10 dist_code=26
+2026-07-19 11:01:39 | INFO     | services.location_service | Loaded 8 court complexes for state_code=10 dist_code=17
+2026-07-19 11:01:47 | INFO     | ui.app | Navigated to screen: captcha
+2026-07-19 11:01:47 | INFO     | services.captcha_service | KevinOCR suggestion generated for CAPTCHA screen.
+2026-07-19 11:01:49 | INFO     | ui.app | Navigated to screen: results
+2026-07-19 11:01:49 | INFO     | services.search_service | Saved case id=55 (STC/430/2025 — Vignesh vs Meiyyappan Alias Prasanth Advocate - Bastin Leve Raja S)
+2026-07-19 11:01:53 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-19 11:02:37 | INFO     | ui.app | Navigated to screen: home
+2026-07-19 11:02:52 | INFO     | services.location_service | Loaded 13 court complexes for state_code=10 dist_code=2
+2026-07-19 11:04:06 | INFO     | ui.app | Navigated to screen: my_cases
+2026-07-19 11:04:27 | INFO     | ui.app | Navigated to screen: home
+2026-07-19 11:04:45 | INFO     | ui.app | Navigated to screen: settings
+2026-07-19 11:04:47 | INFO     | services.reminder_scheduler | Reminder scheduler stopped.

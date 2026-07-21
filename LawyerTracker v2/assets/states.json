@@ -1,0 +1,150 @@
+[
+  {
+    "code": "0",
+    "name": "Select state"
+  },
+  {
+    "code": "28",
+    "name": "Andaman and Nicobar"
+  },
+  {
+    "code": "2",
+    "name": "Andhra Pradesh"
+  },
+  {
+    "code": "36",
+    "name": "Arunachal Pradesh"
+  },
+  {
+    "code": "6",
+    "name": "Assam"
+  },
+  {
+    "code": "8",
+    "name": "Bihar"
+  },
+  {
+    "code": "27",
+    "name": "Chandigarh"
+  },
+  {
+    "code": "18",
+    "name": "Chhattisgarh"
+  },
+  {
+    "code": "26",
+    "name": "Delhi"
+  },
+  {
+    "code": "30",
+    "name": "Goa"
+  },
+  {
+    "code": "17",
+    "name": "Gujarat"
+  },
+  {
+    "code": "14",
+    "name": "Haryana"
+  },
+  {
+    "code": "5",
+    "name": "Himachal Pradesh"
+  },
+  {
+    "code": "12",
+    "name": "Jammu and Kashmir"
+  },
+  {
+    "code": "7",
+    "name": "Jharkhand"
+  },
+  {
+    "code": "3",
+    "name": "Karnataka"
+  },
+  {
+    "code": "4",
+    "name": "Kerala"
+  },
+  {
+    "code": "33",
+    "name": "Ladakh"
+  },
+  {
+    "code": "37",
+    "name": "Lakshadweep"
+  },
+  {
+    "code": "23",
+    "name": "Madhya Pradesh"
+  },
+  {
+    "code": "1",
+    "name": "Maharashtra"
+  },
+  {
+    "code": "25",
+    "name": "Manipur"
+  },
+  {
+    "code": "21",
+    "name": "Meghalaya"
+  },
+  {
+    "code": "19",
+    "name": "Mizoram"
+  },
+  {
+    "code": "34",
+    "name": "Nagaland"
+  },
+  {
+    "code": "11",
+    "name": "Odisha"
+  },
+  {
+    "code": "35",
+    "name": "Puducherry"
+  },
+  {
+    "code": "22",
+    "name": "Punjab"
+  },
+  {
+    "code": "9",
+    "name": "Rajasthan"
+  },
+  {
+    "code": "24",
+    "name": "Sikkim"
+  },
+  {
+    "code": "10",
+    "name": "Tamil Nadu"
+  },
+  {
+    "code": "29",
+    "name": "Telangana"
+  },
+  {
+    "code": "38",
+    "name": "The Dadra And Nagar Haveli And Daman And Diu"
+  },
+  {
+    "code": "20",
+    "name": "Tripura"
+  },
+  {
+    "code": "15",
+    "name": "Uttarakhand"
+  },
+  {
+    "code": "13",
+    "name": "Uttar Pradesh"
+  },
+  {
+    "code": "16",
+    "name": "West Bengal"
+  }
+]
